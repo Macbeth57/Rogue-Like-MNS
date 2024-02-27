@@ -1,0 +1,14 @@
+C:\Users\krust\OneDrive\Bureau\C#\Rogue-Like\Rogue-Like\bin\Debug\net8.0\Rogue-Like.exe
+C:\Users\krust\OneDrive\Bureau\C#\Rogue-Like\Rogue-Like\bin\Debug\net8.0\Rogue-Like.deps.json
+C:\Users\krust\OneDrive\Bureau\C#\Rogue-Like\Rogue-Like\bin\Debug\net8.0\Rogue-Like.runtimeconfig.json
+C:\Users\krust\OneDrive\Bureau\C#\Rogue-Like\Rogue-Like\bin\Debug\net8.0\Rogue-Like.dll
+C:\Users\krust\OneDrive\Bureau\C#\Rogue-Like\Rogue-Like\bin\Debug\net8.0\Rogue-Like.pdb
+C:\Users\krust\OneDrive\Bureau\C#\Rogue-Like\Rogue-Like\obj\Debug\net8.0\Rogue-Like.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krust\OneDrive\Bureau\C#\Rogue-Like\Rogue-Like\obj\Debug\net8.0\Rogue-Like.AssemblyInfoInputs.cache
+C:\Users\krust\OneDrive\Bureau\C#\Rogue-Like\Rogue-Like\obj\Debug\net8.0\Rogue-Like.AssemblyInfo.cs
+C:\Users\krust\OneDrive\Bureau\C#\Rogue-Like\Rogue-Like\obj\Debug\net8.0\Rogue-Like.csproj.CoreCompileInputs.cache
+C:\Users\krust\OneDrive\Bureau\C#\Rogue-Like\Rogue-Like\obj\Debug\net8.0\Rogue-Like.dll
+C:\Users\krust\OneDrive\Bureau\C#\Rogue-Like\Rogue-Like\obj\Debug\net8.0\refint\Rogue-Like.dll
+C:\Users\krust\OneDrive\Bureau\C#\Rogue-Like\Rogue-Like\obj\Debug\net8.0\Rogue-Like.pdb
+C:\Users\krust\OneDrive\Bureau\C#\Rogue-Like\Rogue-Like\obj\Debug\net8.0\Rogue-Like.genruntimeconfig.cache
+C:\Users\krust\OneDrive\Bureau\C#\Rogue-Like\Rogue-Like\obj\Debug\net8.0\ref\Rogue-Like.dll
